@@ -1,0 +1,7 @@
+#footer .list-group > .list-group-item{
+    background-color: #212529 !important;
+    color: white !important;
+}
+.list-group-horizontal li{
+    border: none !important;
+}
